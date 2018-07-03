@@ -11,7 +11,7 @@ namespace SS14.Shared.Configuration
         /// <summary>
         /// No special flags.
         /// </summary>
-        NONE = 0,
+        None = 0,
 
         /// <summary>
         /// Debug vars that are considered 'cheating' to change.
